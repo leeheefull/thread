@@ -1,6 +1,6 @@
 # Java Thread
 
-주제와 관련된 모든 예제는 [여기](https://github.com/leeheefull/java-playground/tree/main/src/main/java/com/leeheefull/thread)에 있습니다.
+주제와 관련된 모든 예제는 [여기](https://github.com/leeheefull/thread)에 있습니다.
 
 　
 
